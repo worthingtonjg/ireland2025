@@ -3,10 +3,19 @@ layout: home
 title: "30 Days in Ireland"
 ---
 
-Welcome to my travel log of a 30-day journey through Ireland in 2025! Each day, I’ll post highlights, photos, and experiences from across this beautiful country.
+Welcome to my travel log of our 30-day adventure living in Ireland. My wife and daughter and I decided we wanted to spend a month exploring a new place and Ireland was the place we chose.
 
-Browse the latest posts below — or use the archive to jump to a specific day.
+Our daily schedule is roughly as follows ...
 
-> 📍 Locations visited include Dublin, Galway, the Cliffs of Moher, the Ring of Kerry, Giant’s Causeway, and many more.
+Work Days:
+- 6am - 4pm: Travel and visit closer places.
+- 4pm - Midnight: Work (matches Utah office hours)
+- Midnight - 6am: Sleep
 
-Enjoy the adventure!
+Weekends:
+- Use vacation days to take longer weekends
+- Travel and visit places further away
+
+Follow our adventures below
+
+
