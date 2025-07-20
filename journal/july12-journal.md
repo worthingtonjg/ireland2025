@@ -2,6 +2,7 @@
 layout: page
 title: "July 12 - Journal Entry"
 permalink: /journal/july12/
+journal: true
 ---
 
 ## July 12

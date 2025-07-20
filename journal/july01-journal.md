@@ -2,7 +2,7 @@
 layout: page
 title: "July 31 - July 1 - Journal Entry"
 permalink: /journal/july01/
-hidden: true
+journal: true
 ---
 
 <div class="journal-entry">
