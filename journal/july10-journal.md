@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "July 10 - Journal Entry"
+title: "Day 11: July 10 - Journal Entry"
 permalink: /journal/july10/
 ---
 
@@ -8,11 +8,15 @@ permalink: /journal/july10/
 
 It was up and out early today. We are going to Birr Castle and need to get back before 4pm so Jonathan can work. Luckily it’s just a little over an hour away, so we have until 2:30ish before heading back. 
 
+## Birr Castle
+
 Birr Castle was the home of a scientist/astronomer. He built one of the first large scale telescopes, the biggest of the time. The castle was huge, well cared for and still lived in by the descendants today. The grounds were so expansive, with the castle, large gardens and playground with treehouse, the telescope that was huge and at least two stories tall, walking trails, a suspension bridge that was designed and built before its time, and a visitor center with a science museum wing. 
 
 The tour talked about the generations of occupants, the scientific impact of the family, and the local impact. The third earl was there through the great famine and was very insistent on helping the locals. He hired 500 people to build a wall around the estate, not that it needed a wall, but it gave people jobs. He also had them dig a moat around the castle proper and help install gardens and such, just to provide work for locals. The third Earl’s son was credited with designing the first turbine engine, a design that is still used today. 
 
 Molly loved the sciency stuff. She could have spent more time in the museum, but we didn’t have all day. The treehouse was closed for renovations, but we got to walk to the I-LOFAR, which is the new Ireland Low Frequency telescope system. The biggest in the world. Even today the Birr estate is involved in science. 
+
+## Glenbarrow
 
 There was so much to see it was a bit overwhelming. Still, we decided if we left just a bit early, we could go to the Glenbarrow and take a short hike to a waterfall. It was on the way home and Pat had suggested it as we left this morning. Jon messaged work and told them he would be a little late and we started in the right direction. 
 

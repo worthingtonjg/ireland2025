@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "July 3 - Journal Entry"
+title: "Day 4: July 3 - Journal Entry"
 permalink: /journal/july03/
 ---
 

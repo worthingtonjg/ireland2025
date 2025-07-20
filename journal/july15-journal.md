@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "July 15 - Journal Entry"
+title: "Day 16: July 15 - Journal Entry"
 permalink: /journal/july15/
 ---
 
@@ -10,11 +10,13 @@ Today we have plans to go to Craggaunowen Castle. It is just over a two hour dri
 
 It had rained all night and was still coming down when we got up. I had showered and dressed when Jonathan got up. He was worried about driving so far in the rain, and what if the rain made our tour cancel? We looked up the weather in Galway county, where the castle was located, and it looked like the weather was going to clear up before we got there. So we decided to go for it.
 
+I made us each a sandwich and we filled our water bottles, grabbed our rain coats and headed out. I am getting used to driving here, but with the rain coming down we had to be extra careful. Jonathan was worried we would hydroplane on a puddle and kept telling me to slow down. I was already going slower than the rest of the traffic.
 
-I made us each a sandwich and we filled our water bottles, grabbed our rain coats and headed out. I am getting used to driving here, but with the rain coming down we had to be extra careful. Jonathan was worried we would hydroplane on a puddle and kept telling me to slow down. I was already going slower than the rest of the traffic. 
 The rain continued on and off for most of the drive. We took a little longer than expected because we had to stop twice for Jonathan to pee, the second stop was down a dead end road and a couple of horses in the field walked over to see what we were up to. Molly and I had a bit of a laugh at that. Then we made one more stop for gas and a girly potty break.
 
 When we finally got off the main motorway to head down to the castle we ended up on one of the skinny L roads that are barely wide enough for one way travel, so I was tense and nervous as we traveled the last dozen kilometers or so. 
+
+## Craggaunowen Castle
 
 There was a car park on site and we were one of the first 10 cars to arrive. We got our backpacks and raincoats and started following the walk towards the castle. We first came to a man with a pail of grain, he clanged on the pail and a handful of sheep came running in from the field. “Maaaaaa”. Wow, were they ever noisy! Some were small, some shaggy, some sheered, and some with horns. 
 
@@ -36,7 +38,7 @@ Back in the car we decided that instead of going home and driving all the way ba
 
 Why, why, why does google maps always direct us down these tiny little L roads? Well, thanks to Jonathan’s map search and rerouting, we made it to a slightly larger road and to the next site in just over 20 minutes.
 
-Bunratty Castle and Folk Park. 
+## Bunratty Castle and Folk Park. 
 
 Bunratty has a much different feel than Craggaunowen did. There were a lot more people, and the castle was restored to be more like a museum than a reenactment. We still got to walk through the castle and see the rooms, spiral staircases, and view from the rooftop, but the grounds had several old thatched roof houses, a fairy forest trail, a small cathedral, a manor house, a tinker’s wagon, a blacksmith house, and a tea room/ gift shop. 
 
