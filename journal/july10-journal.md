@@ -2,10 +2,7 @@
 layout: page
 title: "July 10 - Journal Entry"
 permalink: /journal/july10/
-journal: true
 ---
-
-## July 10
 
 It was up and out early today. We are going to Birr Castle and need to get back before 4pm so Jonathan can work. Luckily it’s just a little over an hour away, so we have until 2:30ish before heading back. 
 

@@ -2,10 +2,7 @@
 layout: page
 title: "July 12 - Journal Entry"
 permalink: /journal/july12/
-journal: true
 ---
-
-## July 12
 
 Today we are traveling over two hours south to Cahir Castle, Rock of Cashel, and if we have time, Kilkenny Castle. Jon likes to  be early, so we are leaving at 9am, our first tour is at noon. 
 

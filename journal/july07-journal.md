@@ -2,10 +2,7 @@
 layout: page
 title: "July 7 - Journal Entry"
 permalink: /journal/july07/
-journal: true
 ---
-
-## July 7
 
 Up and out for an adventure today. We are headed for Dublin. We are going to drive to Mullingar and take the train, because the traffic, tolls, and parking involved in driving to Dublin sound overwhelming. We will take the rain again on Wednesday, so today is like a trial run to see how we navigate, travel and walking through the city. Our trip today will include a bus tour, a cathedral with mummies, and anything else we see along the way. We have packed sandwiches and snacks, and hope to enjoy the countryside views from the train. 
 

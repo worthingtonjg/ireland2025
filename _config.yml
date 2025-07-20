@@ -3,6 +3,4 @@ description: "Daily log of my adventures in Ireland"
 theme: minima
 baseurl: "/ireland2025" # leave blank for user.github.io/repo
 url: "https://worthingtonjg.github.io"
-minima:
-  nav_pages:
-    - index.md
+

@@ -2,10 +2,7 @@
 layout: page
 title: "July 17 - Journal Entry"
 permalink: /journal/july17/
-journal: true
 ---
-
-## July 17
 
 Good Morning! I am a little more rested, but this trip is taking all of my energy and regaining any feels short lived. But, we don;t want to waste another day, so we go out, but keep it light. 
 

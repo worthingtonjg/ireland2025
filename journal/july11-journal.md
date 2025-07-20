@@ -2,10 +2,7 @@
 layout: page
 title: "July 11 - Journal Entry"
 permalink: /journal/july11/
-journal: true
 ---
-
-## July 11
 
 Today we are driving to Northern Ireland to visit the Giants Causeway and the Carrick-a-Rede Bridge. It is a long drive, over three and a half hours, and we have been told that tonight the North will be lighting enormous bonfires to commemorate the Battle of the Boyne, it is a political holiday.  
 

@@ -2,10 +2,7 @@
 layout: page
 title: "July 9 - Journal Entry"
 permalink: /journal/july09/
-journal: true
 ---
-
-## July 9
 
 Ok, an early start to the day. We have to catch the 6:10am  train in Mullingar to get to Dublin in time for our Trinity College tour of the Book of Kells at 8:30am. It is a 20 minute walk from the train station to the college, and we have to be there 15 minutes before our tour. We got up at 5:15, in the car by 5:45, got to the Mullingar station by 6:03, and just made the train. It is a pleasant ride to the Connolly station in Dublin, but takes an hour and a half. The walk through Dublin feels pretty safe, lots of people and sights to see. The college campus had some construction so we had to walk around a bit to find the library. The tour was ok, but most of the books had been removed for preservation processing and it was a bit underwhelming. They also had a virtual reality experience, which was ok, but not what I was expecting. 
 

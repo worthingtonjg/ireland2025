@@ -2,10 +2,7 @@
 layout: page
 title: "July 18 - Journal Entry"
 permalink: /journal/july18/
-journal: true
 ---
-
-## July 18
 
 Today we visit an iconic movie site, The Cliffs of Moher. But first, we have to drive two and a half hours to county Clare. And, we have another tour before the Cliffs of Moher. So let's get started.
 

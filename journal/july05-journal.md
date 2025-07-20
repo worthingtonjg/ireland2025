@@ -2,10 +2,7 @@
 layout: page
 title: "July 5 - Journal Entry"
 permalink: /journal/july05/
-journal: true
 ---
-
-## July 5
 
 Happy Birthday Jonathan! For his birthday we are taking a tour of the <strong>Ring of Kerry</strong>.
 

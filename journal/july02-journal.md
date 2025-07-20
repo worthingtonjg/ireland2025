@@ -2,10 +2,7 @@
 layout: page
 title: "July 2 - Journal Entry"
 permalink: /journal/july02/
-journal: true
 ---
-
-## July 2
 
 Up and getting ready to explore Ireland. We made breakfast, bacon and eggs. We even made Molly some toast with gluten free bread. 
 

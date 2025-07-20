@@ -6,8 +6,6 @@ permalink: /journal/july01/
 
 [Back to Blog Entry]({{ site.baseurl }}/2025/07/01/day-02.html)
 
-## July 31 - July 1
-
 We took an overnight flight from Chicago to Ireland. Not much sleep on the plane, it was noisy and the space was small and uncomfortable. They did serve dinner, we had a chicken dish. They also served a small breakfast of yogurt and granola. Molly got the seat by the window. We got excited when we could finally see the land from the plane. Everything looked green with a beautiful sandy coastline. Wow, we made it. We got off the plane with some anxiety as we headed for customs. The lady at the counter looked at each passport, gave them a stamp, and said go. That was it. Now to find the baggage claim and see if our luggage made the flight change in Chicago. Molly’s suitcase was easy enough to find, but Jonathan and I had large black bags that looked like 50% of the luggage coming off the plane. 
 
 After collecting the correct bags, lol, we went out to catch the shuttle to the rental car lot. We noticed pretty quickly that all of the signs at the airport were in, what we think is Gaelic, with English subtitles. We caught the shuttle and collected our car, but noticed that there were a fair amount of scratches on the car. When I pointed that out to the lady helping us she whipped out a reference card and explained if the scratches were not deeper than the paint and dents were smaller than the diameter on the card, it was fine. Ok, good to know. This would be my first time driving on the left, so having a small forgiveness margin was a plus.

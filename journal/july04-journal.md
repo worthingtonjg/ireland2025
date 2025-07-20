@@ -2,10 +2,7 @@
 layout: page
 title: "July 4 - Journal Entry"
 permalink: /journal/july04/
-journal: true
 ---
-
-## July 4
 
 It was an early morning today! We are going to Blarney castle. Maybe even kiss the blarney stone. But we have to drive 3 hours to get there. So rise and grumble, then get in the car. 
 

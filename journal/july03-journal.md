@@ -2,10 +2,7 @@
 layout: page
 title: "July 3 - Journal Entry"
 permalink: /journal/july03/
-journal: true
 ---
-
-# July 3
 
 Today is another close to home day, <strong>Tullynally Castle</strong>. 
 

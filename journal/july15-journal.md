@@ -2,10 +2,7 @@
 layout: page
 title: "July 15 - Journal Entry"
 permalink: /journal/july15/
-journal: true
 ---
-
-## July 15
 
 Today we have plans to go to Craggaunowen Castle. It is just over a two hour drive, but it doesn’t open until 10:30, so we don’t have to leave until about 8am.
 

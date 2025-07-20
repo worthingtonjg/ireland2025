@@ -2,10 +2,7 @@
 layout: page
 title: "July 13 - Journal Entry"
 permalink: /journal/july13/
-journal: true
 ---
-
-## July 13
 
 Sunday is our down day. We go to church at 11am, so we don’t have to rush to get up. The district here is very welcoming, but also very small. They don’t have a young women's group so Molly went with me to Relief Society. There was a total of six of us in the room, we had a pleasant lesson and nice conversations after class. It was a very low stress situation. After church Jonathan offered a ride home for two of the members that were going to walk to the train station. I was impressed at their dedication and desire to go to church even though getting there took a long time to walk, take a train, and walk some more. We enjoyed chatting with them as we drove them to different towns. 
 

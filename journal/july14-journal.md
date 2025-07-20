@@ -2,10 +2,7 @@
 layout: page
 title: "July 14 - Journal Entry"
 permalink: /journal/july14/
-journal: true
 ---
-
-## July 14
 
 It is Monday. We didn’t have definitive plans today, so we thought we could drive to Wicklow and see the Howard Mausoleum pyramid, Black Castle, and the Glendalough Monastical ruins. There is always something to go see. Molly is crabby this morning, she won’t get out of bed and she is having some “teen” attitude. Jonathan is taking it well, but I worry if she keeps it up, the day will turn sour and we will all end up in a bad mood.
 

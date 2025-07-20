@@ -2,10 +2,7 @@
 layout: page
 title: "July 16 - Journal Entry"
 permalink: /journal/july16/
-journal: true
 ---
-
-## July 16
 
 Last night my allergies kicked in a bit, my nose is all runny and I have the sneezes. Also, we are out of toilet paper. So first thing this morning, I drove into Mullingar to buy toilet paper. 
 
