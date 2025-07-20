@@ -2,9 +2,12 @@
 layout: page
 title: "July 31 - July 1 - Journal Entry"
 permalink: /journal/july01/
+hidden: true
 ---
 
 <div class="journal-entry">
+[Back to Blog Entry]({{ site.baseurl }}/2025/07/01/day-02.html)
+
 ## July 31 - July 1
 
 We took an overnight flight from Chicago to Ireland. Not much sleep on the plane, it was noisy and the space was small and uncomfortable. They did serve dinner, we had a chicken dish. They also served a small breakfast of yogurt and granola. Molly got the seat by the window. We got excited when we could finally see the land from the plane. Everything looked green with a beautiful sandy coastline. Wow, we made it. We got off the plane with some anxiety as we headed for customs. The lady at the counter looked at each passport, gave them a stamp, and said go. That was it. Now to find the baggage claim and see if our luggage made the flight change in Chicago. Molly’s suitcase was easy enough to find, but Jonathan and I had large black bags that looked like 50% of the luggage coming off the plane. 
@@ -20,4 +23,6 @@ Jonathan helped Pat unload some turf from the local bog. Turns out locals burn t
 We got back home and settled our stuff in the cupboards and became familiar with our space. Then, we needed to find a store to buy some groceries for the week. Una gave us some suggestions and some shopping bags, as they only use reusable bags here. We went to a store called Dunnes, we had to pay to park, put a coin in to get a shopping cart, and bag our groceries in our own bags. Shopping is a lot of work here. The selection of items in the store was also a new challenge. Nothing was familiar. They had almost no fresh produce, ground beef is beef mince, and bacon looks like ham. After a few guesses and some compromises, we left the store with a few familiars and many unknowns. Now we are tired and ready to try to catch up on missed sleep. Jonathan set up his computer and tested his connection. It was slow. He had to call someone at work and set up a local connection so things could work more smoothly. 
 
 We tried to stay up until after 8pm local time to help acclimate us. Our first adventure is tomorrow.  
+
+[Back to Blog Entry]({{ site.baseurl }}/2025/07/01/day-02.html)
 </div>
