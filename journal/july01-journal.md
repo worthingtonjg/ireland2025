@@ -2,10 +2,8 @@
 layout: page
 title: "July 31 - July 1 - Journal Entry"
 permalink: /journal/july01/
-journal: true
 ---
 
-<div class="journal-entry">
 [Back to Blog Entry]({{ site.baseurl }}/2025/07/01/day-02.html)
 
 ## July 31 - July 1
@@ -25,4 +23,4 @@ We got back home and settled our stuff in the cupboards and became familiar with
 We tried to stay up until after 8pm local time to help acclimate us. Our first adventure is tomorrow.  
 
 [Back to Blog Entry]({{ site.baseurl }}/2025/07/01/day-02.html)
-</div>
+
