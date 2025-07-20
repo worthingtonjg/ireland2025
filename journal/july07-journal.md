@@ -4,6 +4,8 @@ title: "July 7 - Journal Entry"
 permalink: /journal/july07/
 ---
 
+[Back to Blog Entry]({{ site.baseurl }}/2025/07/07/day-08.html)
+
 Up and out for an adventure today. We are headed for Dublin. We are going to drive to Mullingar and take the train, because the traffic, tolls, and parking involved in driving to Dublin sound overwhelming. We will take the rain again on Wednesday, so today is like a trial run to see how we navigate, travel and walking through the city. Our trip today will include a bus tour, a cathedral with mummies, and anything else we see along the way. We have packed sandwiches and snacks, and hope to enjoy the countryside views from the train. 
 
 The train ride into Dublin was about an hour and twenty minutes. The walk to St, Stephen’s Green, where our Viking Splash Tour picks up, was about a 30 minute walk from Connolly train station. The city is big and bustling, but feels safe enough as we walk through the streets. 
@@ -21,3 +23,5 @@ We sat outside the St. Michan Cathedral and ate our lunch, and looked at the map
 By this time Molly is getting tired of walking all over Dublin and grumpy as well. Maybe some food would help pep her up. We stopped at a little corner food place and got her some chicken and fries. Jonathan got a Kebab, which is a type of lamb pita sandwich, that he said was his new favorite food. We ate in a small park nearby that was thankfully free of seagulls, though the pigeons were a bit pesky. 
 
 Now we had a twenty five minute walk back to the train station. As we walked we had fun crossing each bridge that spanned the river, there were about half a dozen. Molly was a trooper, though you could tell she was at the end of her rope and very tired. We found a cute little gelato place, Cloud Nine, and each got a tasty treat that made the walk more pleasant. We eventually got back to the train station and made the trip back to Mullingar and drove home. It was a very long day. We are all tired. But we have a good day and hopefully we’ll sleep well.
+
+[Back to Blog Entry]({{ site.baseurl }}/2025/07/07/day-08.html)

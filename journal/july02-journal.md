@@ -4,6 +4,8 @@ title: "July 2 - Journal Entry"
 permalink: /journal/july02/
 ---
 
+[Back to Blog Entry]({{ site.baseurl }}/2025/07/02/day-03.html)
+
 Up and getting ready to explore Ireland. We made breakfast, bacon and eggs. We even made Molly some toast with gluten free bread. 
 
 We decided to stay close to home the first few days as I learn to navigate and drive on the left. Our destination today, <strong>Belvedere House and Gardens.</strong> The drive is only 20 minutes, and the site is by a lough, which is a small lake, so the views should be beautiful. It was not hard to navigate, as my phone maps work pretty good here, but the roads are so confusing. Some roads are wide with double lanes, some are narrow but fit for two way traffic, and some roads are like a joke on tourists, so narrow I can’t tell if it is a one way road until some comes from the other direction and I am frozen hugging the shoulder and sure they will hit me as they pass. Maybe we should have rented bikes instead of a car. The worst is when a large tractor comes at you! Why are they even on the roads?  We made it to Belvedere. I may have a heart attack on these roads by the end of the day, but right now, I just want to walk it off and enjoy the lovely scenery. 
@@ -17,3 +19,5 @@ The follies are interesting, they are made of stone and look like castle parts, 
 Molly got tired of all the walking and sat in a field while Jon and I went on, but she quickly got sick of waiting for us and pushed on. We walked about five miles today at Belvedere. I thought it was lovely and would walk the grounds again if given the chance. We stopped at the little cafe in the courtyard for a late lunch. Jon got a cheeseburger. Molly and I shared a bowl of soup, basically pureed carrots with no flavor, but it came with gluten free bread, so she could eat that. 
 
 Overall it was a nice first day. But we have to head home now so Jonathan can work. While he does, I make dinner and Molly plays with Poppy.
+
+[Back to Blog Entry]({{ site.baseurl }}/2025/07/02/day-03.html)

@@ -4,6 +4,8 @@ title: "July 10 - Journal Entry"
 permalink: /journal/july10/
 ---
 
+[Back to Blog Entry]({{ site.baseurl }}/2025/07/10/day-11.html)
+
 It was up and out early today. We are going to Birr Castle and need to get back before 4pm so Jonathan can work. Luckily it’s just a little over an hour away, so we have until 2:30ish before heading back. 
 
 Birr Castle was the home of a scientist/astronomer. He built one of the first large scale telescopes, the biggest of the time. The castle was huge, well cared for and still lived in by the descendants today. The grounds were so expansive, with the castle, large gardens and playground with treehouse, the telescope that was huge and at least two stories tall, walking trails, a suspension bridge that was designed and built before its time, and a visitor center with a science museum wing. 
@@ -21,3 +23,5 @@ Driving up the very narrow road to get to the park was sooo scary. At one point,
 The walk to the waterfall was beautiful, and almost soothed my nerves from the scary drive there. It was a small waterfall, but set in such a pretty bit of forest. There were several people on the trail and about a half dozen swimming in the waterfall itself. I knew we couldn’t stay long, but I was not looking forward to getting back in the car and facing the narrow road back out. When we got back to the car park we stopped at the little cafe. They had a few gluten free choices, so Molly got a cookie and a brownie. We each took our snack to the car and tried to pretend that the drive home was not suicidal. 
 
 I’m still not sure the waterfall was worth the drive.
+
+[Back to Blog Entry]({{ site.baseurl }}/2025/07/10/day-11.html)

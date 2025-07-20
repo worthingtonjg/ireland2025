@@ -4,6 +4,8 @@ title: "July 4 - Journal Entry"
 permalink: /journal/july04/
 ---
 
+[Back to Blog Entry]({{ site.baseurl }}/2025/07/04/day-05.html)
+
 It was an early morning today! We are going to Blarney castle. Maybe even kiss the blarney stone. But we have to drive 3 hours to get there. So rise and grumble, then get in the car. 
 
 Ok, we survived the harrowing drive to Blarney, I don’t think I will ever get used to the narrow roads here. 
@@ -25,3 +27,5 @@ On to explore the grounds. They had a beautiful forested area, walking trails, g
 At some point in the gardens Jonathan and Molly kissed a Blarney garden stone, for luck? Not quite the same thing. 
 
 We went into the gift shop on our way out, which coincidentally is the only way out. We got a few souvenirs and gifts. Now we face a three hour drive back to Multifarnham.
+
+[Back to Blog Entry]({{ site.baseurl }}/2025/07/04/day-05.html)

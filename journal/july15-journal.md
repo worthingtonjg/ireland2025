@@ -4,6 +4,8 @@ title: "July 15 - Journal Entry"
 permalink: /journal/july15/
 ---
 
+[Back to Blog Entry]({{ site.baseurl }}/2025/07/15/day-16.html)
+
 Today we have plans to go to Craggaunowen Castle. It is just over a two hour drive, but it doesn’t open until 10:30, so we don’t have to leave until about 8am.
 
 It had rained all night and was still coming down when we got up. I had showered and dressed when Jonathan got up. He was worried about driving so far in the rain, and what if the rain made our tour cancel? We looked up the weather in Galway county, where the castle was located, and it looked like the weather was going to clear up before we got there. So we decided to go for it.
@@ -43,3 +45,5 @@ I think about an hour or so in we had all gotten a bit tired and sort of dragged
 The drive home was long and tiring. My watch shows that we walked over 4 and a half miles today, but we sat in the car for close to 5 hours. Why are long car rides so draining?
 
 Back in Multyfarnham, Poppy was super excited to see Molly. They played outside while Jonathan worked and I made dinner. Now that we have visited Bunratty today, we have an open schedule tomorrow. Not sure what we will fill it with, but there is still a lot to see and our month here is half over.
+
+[Back to Blog Entry]({{ site.baseurl }}/2025/07/15/day-16.html)

@@ -4,6 +4,8 @@ title: "July 3 - Journal Entry"
 permalink: /journal/july03/
 ---
 
+[Back to Blog Entry]({{ site.baseurl }}/2025/07/03/day-04.html)
+
 Today is another close to home day, <strong>Tullynally Castle</strong>. 
 
 It is less than 20 minutes away, but on these narrow roads, it feels much further. 
@@ -21,3 +23,5 @@ The guide said that castle living was not as romantic as the movies portray. She
 We walked the first trails and took pictures of the beautiful country views. We enjoyed the gardens and the pond. They even had an Asian pagoda with dragons painted in the ceiling. It was all very pretty, and a peaceful way to spend the day. We went into the cafe for lunch. They had gluten free bread so we each got a cheese toastie, a grilled cheese sandwich. We really need to start packing a lunch when we go out, cafes are costly places to eat. 
 
 We left Tullynally, but didn’t head home just yet. Down the road from the castle is Fore. A town with some incredible ruins. We got to walk through the skeleton of an old abby, a chapel, and a bishop’s house. The stone was so amazing, and when you looked up the hillside, you could see the same stone in the cliffside. It makes you wonder how these buildings came to be. I am actually more fascinated by the ruins than the still occupied castle.
+
+[Back to Blog Entry]({{ site.baseurl }}/2025/07/03/day-04.html)

@@ -4,6 +4,8 @@ title: "July 5 - Journal Entry"
 permalink: /journal/july05/
 ---
 
+[Back to Blog Entry]({{ site.baseurl }}/2025/07/05/day-06.html)
+
 Happy Birthday Jonathan! For his birthday we are taking a tour of the <strong>Ring of Kerry</strong>.
 
 Another early morning, Molly is starting to hate us a bit I think. We have to be in Killarney by 10 am to catch a bus tour of the Ring of Kerry, and it is a 3 and a half hour drive. We have to check in for the tour at least 15 minutes before and Jonathan wants a buffer of 30 minutes. Translation, we leave at 5:45 am, waking up about 5:15. But the good news is that she can sleep in the car, right?
@@ -21,3 +23,5 @@ After the park we walked to an impressive cathedral, amazing stonework and stain
 What a navigational nightmare. We have got to complain to google maps. Our drive home put us on some of the scariest little roads ever. Jonathan started to look closer at the map, and if we reroute to more main roads, it only adds a few minutes to the drive, but way less stress and few heart in forehead moments. Why do maps think these little local, barely wide enough for one car let alone two way traffic, roads should be the most recommended routes, even with similar ETA, it always recommends the narrow routes first. Have they ever driven on these roads? 
 
 Well, now we know, check the directions in advance and reroute off the L roads whenever possible, Trust me!
+
+[Back to Blog Entry]({{ site.baseurl }}/2025/07/05/day-06.html)

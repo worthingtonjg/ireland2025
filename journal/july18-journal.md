@@ -4,6 +4,8 @@ title: "July 18 - Journal Entry"
 permalink: /journal/july18/
 ---
 
+[Back to Blog Entry]({{ site.baseurl }}/2025/07/18/day-19.html)
+
 Today we visit an iconic movie site, The Cliffs of Moher. But first, we have to drive two and a half hours to county Clare. And, we have another tour before the Cliffs of Moher. So let's get started.
 
 The weather is supposed to be rainy this morning, so we grabbed our raincoats and water bottles and left about 7am. We premapped the drive to stay on main motorways most of the way, so the drive was not stressful, until the last bit, some narrow roads are unavoidable when the venue is on them. First stop, Aillwee cave, the Birds of Prey, and the Burren Cheese and Fudge shop.
@@ -19,3 +21,5 @@ Ok, Cliffs of Moher are only a 20ish minute drive so we got there in no time. Th
 Back at the car, and a nibble of fudge, we headed for home. But on the way we saw some ruins and thought to stop. Kilmacduagh ruins were just off the little road from Moher. Molly sat in the car, she was done and just wanted to read. So Jonathan and I took about 15 minutes to walk around and wonder why these ruins were here. There was what looked like a church, it was surrounded by a gavetard that had very old and some almost new headstones. There were three other buildings, all closed off and in ruins, but you could feel the history in each set of stones.
 
 Our drive home was long but not bad. A big plus today, cheesecake! When we got home Molly and I went into Weir’s restaurant and got two pieces of berry cheesecake. Molly was able to eat some of the whipped berry cheesecake topping but had to avoid the crust. It was so light and fluffy, delicious! Great way to end the day. 
+
+[Back to Blog Entry]({{ site.baseurl }}/2025/07/18/day-19.html)
