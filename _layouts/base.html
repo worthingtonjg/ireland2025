@@ -54,22 +54,18 @@
     {%- include footer.html -%}
 
   </body>
-<script>
-  window.addEventListener('load', function () {
-    document.querySelectorAll('.glider-container').forEach(function (container) {
-      const gliderEl = container.querySelector('.glider');
-      new Glider(gliderEl, {
+  <script>
+    window.addEventListener('load', function(){
+     new Glider(document.querySelector('.glider'), {
         slidesToShow: 1,
-        dots: container.querySelector('.dots'),
+        dots: '.dots',
         arrows: {
-          prev: container.querySelector('.glider-prev'),
-          next: container.querySelector('.glider-next')
+          prev: '.glider-prev',
+          next: '.glider-next'
         },
         draggable: true,
         scrollLock: true
       });
-    });
-  });
-</script>
-
+    })
+  </script>
 </html>
