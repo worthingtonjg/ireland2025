@@ -16,6 +16,8 @@ Weekends:
 - Use vacation days to take longer weekends
 - Travel and visit places further away
 
-Follow our adventures below
+<iframe src="https://www.google.com/maps/d/embed?mid=1Vo_IPkHPXlvAZ5wy7ivszMbqS8vvMKM&ehbc=2E312F" width="640" height="480"></iframe>
+
+Follow our adventures below ...
 
 
