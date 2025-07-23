@@ -32,7 +32,7 @@
         text-decoration: none;
         }
     </style>
-
+    <link rel="stylesheet" type="text/css" href="glider.css">
     <script src="https://cdn.jsdelivr.net/npm/glider-js@1/glider.min.js"></script>
   </head>
 
@@ -49,5 +49,18 @@
     {%- include footer.html -%}
 
   </body>
-
+  <script>
+    window.addEventListener('load', function(){
+     new Glider(document.querySelector('.glider'), {
+        slidesToShow: 1,
+        dots: '.dots',
+        arrows: {
+          prev: '.glider-prev',
+          next: '.glider-next'
+        },
+        draggable: true,
+        scrollLock: true
+      });
+    })
+  </script>
 </html>
