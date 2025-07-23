@@ -16,8 +16,13 @@ Weekends:
 - Use vacation days to take longer weekends
 - Travel and visit places further away
 
+---
+## Map of our travels in Ireland...
+
 <iframe src="https://www.google.com/maps/d/embed?mid=1Vo_IPkHPXlvAZ5wy7ivszMbqS8vvMKM&ehbc=2E312F" width="640" height="480"></iframe>
 
-Follow our adventures below ...
+---
+
+## Follow our adventures below ...
 
 
